@@ -1,17 +1,10 @@
 # 概述
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
-
 ## 本书包括什么
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* 基础 - 处理器，存储，通信接口，协议, 操作系统, 语言等
+* Adaptive Platform - Adaptive AUTOSAR
+* 智能座舱 - 智能座舱/驾驶舱所涉及的技术
+* 自动驾驶 - 自动驾驶相关技术
 
-## 结构
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
